@@ -1,2 +1,3 @@
 # AdventOfCode2k22
-Contains solutions for https://adventofcode.com/2022
+
+Contains my solutions for https://adventofcode.com/2022 in typescript 🎄
